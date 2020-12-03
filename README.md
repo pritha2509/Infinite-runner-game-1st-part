@@ -1,1 +1,2 @@
-# Infinite-runner-game-1st-part
+# trex
+Chrome's trex game created using p5.play
